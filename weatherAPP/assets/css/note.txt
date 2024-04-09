@@ -1,0 +1,18 @@
+/* box-sizing: border-box; */
+/* https://www.youtube.com/watch?v=WlGQdgy-M6w */
+
+
+/* flex-direction/wrap, justify-content/align-content, */
+/* flex-grow/shrink/basis */
+/* https://www.syncfusion.com/blogs/post/css-flex-every-developer-should-know */
+
+
+/* transform: translateY(-100%); */
+/* https://www.youtube.com/watch?v=oNYHENW-9ig */
+
+
+/* 可以自行在css中新的.active並用來和js做互動，而html中不一定要真的有這個.active */
+/* container.classList.add("active"); */
+/* classList 是一個 DOMTokenList 物件，它保存了元素的類名（class）列表。這個列表允許你添加、刪除和切換類名，以便動態地修改元素的樣式和行為 */
+
+
